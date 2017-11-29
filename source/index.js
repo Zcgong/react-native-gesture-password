@@ -310,7 +310,7 @@ const styles = StyleSheet.create({
     message: {
         position: 'absolute',
         left: 0,
-        top: Top / 2.2,
+        bottom: Width + 30,
         width: Width,
         height: Top / 3,
         alignItems: 'center',
